@@ -4,9 +4,9 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="root",
   password="",
-  database="animali"
+  database="ANIMALI"
 )
 
 mycursor = mydb.cursor()
 
-mycursor.execute("CREATE TABLE Mammiferi (id VARCHAR(255), nome_proprio VARCHAR(255), razza VARCHART(255), Peso(255), Età(255))")
+mycursor.execute("CREATE TABLE Mammiferi (id INT AUTO_INCREMENT PRIMARY KEY, nome_proprio VARCHAR(255), razza VARCHAR(255), Peso INT, Eta INT)")
