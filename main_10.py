@@ -4,12 +4,14 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="root",
   password="",
-  database="mydatabase4"
+  database="mydatabase10"
 )
 
 mycursor = mydb.cursor()
 
-mycursor.execute("SHOW TABLES")
+mycursor.execute("SELECT * FROM customers")
 
-for x in mycursor:
+myresult = mycursor.fetchall()
+
+for x in myresult:
   print(x)
