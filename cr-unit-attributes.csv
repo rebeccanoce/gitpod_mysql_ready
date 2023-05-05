@@ -1,66 +1,29 @@
-Unit,Cost,Hit Speed,Speed,Deploy Time,Range,Target,Count,Transport,Type,Rarity
-Archers,3,1.2 sec,Medium (60),1 sec,5,Air &amp; Ground,x2,Ground,Troop,Common
-Baby Dragon,4,1.6 sec,Fast (90),1 sec,3.5,Air &amp; Ground,x1,Air,Troop,Epic
-Balloon,5,3 sec,Medium (90),1 sec,Melee,Buildings,x1,Air,Troop,Epic
-Barbarians,5,1.5 sec,Medium (60),1 sec,Melee,Ground,x4,Ground,Troop,Common
-Bomber,3,1.9 sec,Medium (60),1 sec,4.5,Ground,x1,Ground,Troop,Common
-Bowler,5,2.5 sec,Slow (45),1 sec,5,Ground,x1,Ground,Troop,Epic
-Dark Prince,4,1.5 sec,Medium (60),1 sec,Melee,Ground,x1,Ground,Troop,Epic
-Electro Wizard,4,0.5 sec,Fast (90),1 sec,5,Air &amp; Ground,x1,Ground,Troop,Legendary
-Elite Barbarians,6,1.5 sec,Very Fast (120),1 sec,Melee,Ground,x2,Ground,Troop,Common
-Fire Spirits,2,,Very Fast (120),1 sec,2,Air &amp; Ground,x3,Ground,Troop,Common
-Giant,5,1.5 sec,Slow (45),1 sec,Melee,Buildings,x1,Ground,Troop,Rare
-Giant Skeleton,6,1.5 sec,Medium (60),1 sec,Melee,Ground,x1,Ground,Troop,Epic
-Goblins,2,1.1 sec,Very Fast (120),1 sec,Melee,Ground,x3,Ground,Troop,Common
-Golem,8,2.5 sec,Slow (45),3 sec,Melee,Buildings,x1,Ground,Troop,Epic
-Guards,3,1.2 sec,Fast (90),1 sec,Melee,Ground,x3,Ground,Troop,Epic
-Hog Rider,4,1.5 sec,Very Fast (120),1 sec,Melee,Buildings,x1,Ground,Troop,Rare
-Ice Golem,2,2.5 sec,Slow (45),1 sec,Melee,Buildings,x1,Ground,Troop,Rare
-Ice Spirit,1,,Very Fast (120),1 sec,2.5,Air &amp; Ground,1.5 sec,Ground,Troop,Common
-Ice Wizard,3,1.5 sec,Medium (60),1 sec,5.5,Air &amp; Ground,x1,Ground,Troop,Legendary
-Inferno Dragon,4,0.4 sec,Medium (60),1 sec,4,Air &amp; Ground,x1,Air,Troop,Legendary
-Knight,3,1.1 sec,Medium (60),1 sec,Melee,Ground,x1,Ground,Troop,Common
-Lava Hound,7,1.3 sec,Slow (45),1 sec,2,Buildings,x1,Air,Troop,Legendary
-Lumberjack,4,0.7 sec,Very Fast (120),1 sec,Melee,Ground,+35%,Ground,Troop,Legendary
-Mega Minion,3,1.5 sec,Medium (60),1 sec,2,Air &amp; Ground,x1,Air,Troop,Rare
-Miner,3,1.2 sec,Fast (90),1 sec,Melee,Ground,x1,Ground,Troop,Legendary
-Mini P.E.K.K.A.,4,1.8 sec,Fast (90),1 sec,Melee,Ground,x1,Ground,Troop,Rare
-Minion Horde,5,1 sec,Fast (90),1 sec,2,Air &amp; Ground,x6,Air,Troop,Common
-Minions,3,1 sec,Fast (90),1 sec,2,Air &amp; Ground,x3,Air,Troop,Common
-Musketeer,4,1.1 sec,Medium (60),1 sec,6,Air &amp; Ground,x1,Ground,Troop,Rare
-P.E.K.K.A.,7,1.8 sec,Slow (45),1 sec,Melee,Ground,x1,Ground,Troop,Epic
-Prince,5,1.5 sec,Medium (60),1 sec,Melee,Ground,x1,Ground,Troop,Epic
-Princess,3,3 sec,Medium (60),1 sec,9,Air &amp; Ground,x1,Ground,Troop,Legendary
-Royal Giant,6,1.7 sec,Slow (45),1 sec,6.5,Buildings,x1,Ground,Troop,Common
-Skeleton Army,3,1 sec,Fast (90),1 sec,Melee,Ground,x15,Ground,Troop,Epic
-Skeletons,1,1 sec,Fast (90),1 sec,Melee,Ground,x4,Ground,Troop,Common
-Sparky,6,5 sec,Slow (45),1 sec,4.5,Ground,x1,Ground,Troop,Legendary
-Spear Goblins,2,1.3 sec,Very Fast (120),1 sec,5,Air &amp; Ground,x3,Ground,Troop,Common
-Three Musketeers,9,1.1 sec,Medium (60),1 sec,6,Air &amp; Ground,x3,Ground,Troop,Rare
-Valkyrie,4,1.5 sec,Medium (60),1 sec,Melee,Ground,x1,Ground,Troop,Rare
-Witch,5,0.7 sec,Medium (60),7.5 sec,5,Air &amp; Ground,x1,Ground,Troop,Epic
-Wizard,5,1.4 sec,Medium (60),1 sec,5.5,Air &amp; Ground,x1,Ground,Troop,Rare
-Arrows,3,,4,Air &amp; Ground,Spell,Common,,,,
-Clone,3,1,1,3,Spell,Epic,,,,
-Fireball,4,,2.5,Air &amp; Ground,Spell,Rare,,,,
-Freeze,4,,3,Air &amp; Ground,Spell,Epic,,,,
-Goblin Barrel,3,1.5,Ground,x3,Spell,Epic,,,,
-Graveyard,5,5,1.5 sec,10 sec,0.5 sec,x17,Ground,Spell,Legendary,
-Lightning,6,1.5 sec,3.5,Air &amp; Ground,0.5 sec,x3,Spell,Epic,,
-Poison,4,3.5,Air &amp; Ground,8 sec,Spell,Epic,,,,
-Rage,2,5,+35%,Spell,Epic,,,,,
-The Log,2,Ground,3.9,11.6,Spell,Legendary,,,,
-Tornado,3,5.5,3 sec,Troops,Spell,Epic,,,,
-Zap,2,2.5,0.5 sec,Air &amp; Ground,Spell,Common,,,,
-Barbarian Hut,7,14 sec,Ground,1 sec,1 min,Building,Rare,,,
-Bomb Tower,5,1.6 sec,1 sec,40 sec,6,Ground,Building,Rare,,
-Cannon,3,0.8 sec,1 sec,30 sec,5.5,Ground,Building,Common,,
-Elixir Collector,6,8.5 sec,1 sec,1 min 10 sec,Building,Rare,,,,
-Furnace,4,,10 sec,Air &amp; Ground,1 sec,50 sec,Building,Rare,,
-Goblin Hut,5,,4.9 sec,Air &amp; Ground,1 sec,1 min,Building,Rare,,
-Inferno Tower,5,0.4 sec,1 sec,40 sec,6,Air &amp; Ground,Building,Rare,,
-Mortar,4,5 sec,4 sec,30 sec,3-11,Ground,Building,Common,,
-Rocket,6,,2,Air &amp; Ground,Spell,,,Rare,,
-Tesla,4,0.8 sec,1 sec,40 sec,5.5,Air &amp; Ground,Building,Common,,
-Tombstone,3,2.9 sec,Ground,1 sec,40 sec,Building,Rare,,,
-X-Bow,6,0.25 sec,4 sec,40 sec,11.5,Ground,Building,Epic,,
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,,United States,"September 25, 2021",2020,PG-13,90 min,Documentaries,"As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+s2,TV Show,Blood & Water,,"Ama Qamata, Khosi Ngema, Gail Mabalane, Thabang Molaba, Dillon Windvogel, Natasha Thahane, Arno Greeff, Xolile Tshabalala, Getmore Sithole, Cindy Mahlangu, Ryle De Morny, Greteli Fincham, Sello Maake Ka-Ncube, Odwa Gwanya, Mekaila Mathys, Sandi Schultz, Duane Williams, Shamilla Miller, Patrick Mofokeng",South Africa,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas, TV Mysteries","After crossing paths at a party, a Cape Town teen sets out to prove whether a private-school swimming star is her sister who was abducted at birth."
+s3,TV Show,Ganglands,Julien Leclercq,"Sami Bouajila, Tracy Gotoas, Samuel Jouy, Nabiha Akkari, Sofia Lesaffre, Salim Kechiouche, Noureddine Farihi, Geert Van Rampelberg, Bakary Diombera",,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure","To protect his family from a powerful drug lord, skilled thief Mehdi and his expert team of robbers are pulled into a violent and deadly turf war."
+s4,TV Show,Jailbirds New Orleans,,,,"September 24, 2021",2021,TV-MA,1 Season,"Docuseries, Reality TV","Feuds, flirtations and toilet talk go down among the incarcerated women at the Orleans Justice Center in New Orleans on this gritty reality series."
+s5,TV Show,Kota Factory,,"Mayur More, Jitendra Kumar, Ranjan Raj, Alam Khan, Ahsaas Channa, Revathi Pillai, Urvi Singh, Arun Kumar",India,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, Romantic TV Shows, TV Comedies","In a city of coaching centers known to train India’s finest collegiate minds, an earnest but unexceptional student and his friends navigate campus life."
+s6,TV Show,Midnight Mass,Mike Flanagan,"Kate Siegel, Zach Gilford, Hamish Linklater, Henry Thomas, Kristin Lehman, Samantha Sloyan, Igby Rigney, Rahul Kohli, Annarah Cymone, Annabeth Gish, Alex Essoe, Rahul Abburi, Matt Biedel, Michael Trucco, Crystal Balint, Louis Oliver",,"September 24, 2021",2021,TV-MA,1 Season,"TV Dramas, TV Horror, TV Mysteries","The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe."
+s7,Movie,My Little Pony: A New Generation,"Robert Cullen, José Luis Ucha","Vanessa Hudgens, Kimiko Glenn, James Marsden, Sofia Carson, Liza Koshy, Ken Jeong, Elizabeth Perkins, Jane Krakowski, Michael McKean, Phil LaMarr",,"September 24, 2021",2021,PG,91 min,Children & Family Movies,"Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it."
+s8,Movie,Sankofa,Haile Gerima,"Kofi Ghanaba, Oyafunmike Ogunlano, Alexandra Duah, Nick Medley, Mutabaruka, Afemo Omilami, Reggie Carter, Mzuri","United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia","September 24, 2021",1993,TV-MA,125 min,"Dramas, Independent Movies, International Movies","On a photo shoot in Ghana, an American model slips back in time, becomes enslaved on a plantation and bears witness to the agony of her ancestral past."
+s9,TV Show,The Great British Baking Show,Andy Devonshire,"Mel Giedroyc, Sue Perkins, Mary Berry, Paul Hollywood",United Kingdom,"September 24, 2021",2021,TV-14,9 Seasons,"British TV Shows, Reality TV","A talented batch of amateur bakers face off in a 10-week competition, whipping up their best dishes in the hopes of being named the U.K.'s best."
+s10,Movie,The Starling,Theodore Melfi,"Melissa McCarthy, Chris O'Dowd, Kevin Kline, Timothy Olyphant, Daveed Diggs, Skyler Gisondo, Laura Harrier, Rosalind Chao, Kimberly Quinn, Loretta Devine, Ravi Kapoor",United States,"September 24, 2021",2021,PG-13,104 min,"Comedies, Dramas",A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward.
+s11,TV Show,"Vendetta: Truth, Lies and The Mafia",,,,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, Docuseries, International TV Shows","Sicily boasts a bold ""Anti-Mafia"" coalition. But what happens when those trying to bring down organized crime are accused of being criminals themselves?"
+s12,TV Show,Bangkok Breaking,Kongkiat Komesiri,"Sukollawat Kanarot, Sushar Manaying, Pavarit Mongkolpisit, Sahajak Boonthanakit, Suthipongse Thatphithakkul, Bhasaworn Bawronkirati, Daweerit Chullasapya, Waratthaya Wongchayaporn, Kittiphoom Wongpentak, Abhicha Thanachanun, Nophand Boonyai, Kittipong Khamsat, Arisara Wongchalee, Jaytiya Naiwattanakul, Pantipa Arunwattanachai, Panupan Jantanawong, Kungtap Saelim, Phumphat Chartsuriyakiat, Issara Veranitinunt, Keerati Sivakuae, Panjai Sirisuwan, Supranee Charoenpol, Suda Chuenban, Visaka Banhansupavat, Pitchatorn Santinatornkul",,"September 23, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure","Struggling to earn a living in Bangkok, a man joins an emergency rescue service and realizes he must unravel a citywide conspiracy."
+s13,Movie,Je Suis Karl,Christian Schwochow,"Luna Wedler, Jannis Niewöhner, Milan Peschel, Edin Hasanović, Anna Fialová, Marlon Boess, Victor Boccard, Fleur Geffrier, Aziz Dyab, Mélanie Fouché, Elizaveta Maximová","Germany, Czech Republic","September 23, 2021",2021,TV-MA,127 min,"Dramas, International Movies","After most of her family is murdered in a terrorist bombing, a young woman is unknowingly lured into joining the very group that killed them."
+s14,Movie,Confessions of an Invisible Girl,Bruno Garotti,"Klara Castanho, Lucca Picon, Júlia Gomes, Marcus Bessa, Kiria Malheiros, Fernanda Concon, Gabriel Lima, Caio Cabral, Leonardo Cidade, Jade Cardozo",,"September 22, 2021",2021,TV-PG,91 min,"Children & Family Movies, Comedies","When the clever but socially-awkward Tetê joins a new school, she'll do anything to fit in. But the queen bee among her classmates has other ideas."
+s15,TV Show,Crime Stories: India Detectives,,,,"September 22, 2021",2021,TV-MA,1 Season,"British TV Shows, Crime TV Shows, Docuseries",Cameras following Bengaluru police on the job offer a rare glimpse into the complex and challenging inner workings of four major crime investigations.
+s16,TV Show,Dear White People,,"Logan Browning, Brandon P. Bell, DeRon Horton, Antoinette Robertson, John Patrick Amedori, Ashley Blaine Featherson, Marque Richardson, Giancarlo Esposito",United States,"September 22, 2021",2021,TV-MA,4 Seasons,"TV Comedies, TV Dramas","Students of color navigate the daily slights and slippery politics of life at an Ivy League college that's not nearly as ""post-racial"" as it thinks."
+s17,Movie,Europe's Most Dangerous Man: Otto Skorzeny in Spain,"Pedro de Echave García, Pablo Azorín Williams",,,"September 22, 2021",2020,TV-MA,67 min,"Documentaries, International Movies","Declassified documents reveal the post-WWII life of Otto Skorzeny, a close Hitler ally who escaped to Spain and became an adviser to world presidents."
+s18,TV Show,Falsa identidad,,"Luis Ernesto Franco, Camila Sodi, Sergio Goyri, Samadhi Zendejas, Eduardo Yáñez, Sonya Smith, Alejandro Camacho, Azela Robinson, Uriel del Toro, Géraldine Bazán, Gabriela Roel, Marcus Ornellas",Mexico,"September 22, 2021",2020,TV-MA,2 Seasons,"Crime TV Shows, Spanish-Language TV Shows, TV Dramas",Strangers Diego and Isabel flee their home in Mexico and pretend to be a married couple to escape his drug-dealing enemies and her abusive husband.
+s19,Movie,Intrusion,Adam Salky,"Freida Pinto, Logan Marshall-Green, Robert John Burke, Megan Elisabeth Kelly, Sarah Minnich, Hayes Hargrove, Mark Sivertsen, Brandon Fierro, Antonio Valles, Clint Obenchain",,"September 22, 2021",2021,TV-14,94 min,Thrillers,"After a deadly home invasion at a couple’s new dream house, the traumatized wife searches for answers — and learns the real danger is just beginning."
+s20,TV Show,Jaguar,,"Blanca Suárez, Iván Marcos, Óscar Casas, Adrián Lastra, Francesc Garrido, Stefan Weinert, Julia Möller, Alicia Chojnowski",,"September 22, 2021",2021,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Action & Adventure","In the 1960s, a Holocaust survivor joins a group of self-trained spies who seek justice against Nazis fleeing to Spain to hide after WWII."
+s21,TV Show,Monsters Inside: The 24 Faces of Billy Milligan,Olivier Megaton,,,"September 22, 2021",2021,TV-14,1 Season,"Crime TV Shows, Docuseries, International TV Shows","In the late 1970s, an accused serial rapist claims multiple personalities control his behavior, setting off a legal odyssey that captivates America."
+s22,TV Show,Resurrection: Ertugrul,,"Engin Altan Düzyatan, Serdar Gökhan, Hülya Darcan, Kaan Taşaner, Esra Bilgiç, Osman Soykut, Serdar Deniz, Cengiz Coşkun, Reshad Strik, Hande Subaşı",Turkey,"September 22, 2021",2018,TV-14,5 Seasons,"International TV Shows, TV Action & Adventure, TV Dramas","When a good deed unwittingly endangers his clan, a 13th-century Turkish warrior agrees to fight a sultan's enemies in exchange for new tribal land."
+s23,Movie,Avvai Shanmughi,K.S. Ravikumar,"Kamal Hassan, Meena, Gemini Ganesan, Heera Rajgopal, Nassar, S.P. Balasubrahmanyam",,"September 21, 2021",1996,TV-PG,161 min,"Comedies, International Movies","Newly divorced and denied visitation rights with his daughter, a doting father disguises himself as a gray-haired nanny in order to spend time with her."
+s24,Movie,Go! Go! Cory Carson: Chrissy Takes the Wheel,"Alex Woo, Stanley Moore","Maisie Benson, Paul Killam, Kerry Gudjohnsen, AC Lim",,"September 21, 2021",2021,TV-Y,61 min,Children & Family Movies,"From arcade games to sled days and hiccup cures, Cory Carson’s curious little sister Chrissy speeds off on her own for fun and adventure all over town!"
+s25,Movie,Jeans,S. Shankar,"Prashanth, Aishwarya Rai Bachchan, Sri Lakshmi, Nassar",India,"September 21, 2021",1998,TV-14,166 min,"Comedies, International Movies, Romantic Movies","When the father of the man she loves insists that his twin sons marry twin sisters, a woman creates an alter ego that might be a bit too convincing."
+s26,TV Show,Love on the Spectrum,,Brooke Satchwell,Australia,"September 21, 2021",2021,TV-14,2 Seasons,"Docuseries, International TV Shows, Reality TV","Finding love can be hard for anyone. For young adults on the autism spectrum, exploring the unpredictable world of dating is even more complicated."
+s27,Movie,Minsara Kanavu,Rajiv Menon,"Arvind Swamy, Kajol, Prabhu Deva, Nassar, S.P. Balasubrahmanyam, Girish Karnad",,"September 21, 2021",1997,TV-PG,147 min,"Comedies, International Movies, Music & Musicals",A tangled love triangle ensues when a man falls for a woman studying to become a nun — and she falls for the friend he enlists to help him pursue her.
+s28,Movie,Grown Ups,Dennis Dugan,"Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Colin Quinn, Tim Meadows, Joyce Van Patten",United States,"September 20, 2021",2010,PG-13,103 min,Comedies,"Mourning the loss of their beloved junior high basketball coach, five middle-aged pals reunite at a lake house and rediscover the joys of being a kid."
