@@ -39,7 +39,7 @@ mydb.commit()
 #Read data from a csv file
 netflix_data = pd.read_csv('./cr-unit-attributes.csv', index_col=False, delimiter = ',')
 netflix_data = netflix_data.fillna('Null')
-print(netflix_data.head(20))
+print(netflix_data.head(28))
 
 #Fill the table
 for i,row in netflix_data.iterrows():
