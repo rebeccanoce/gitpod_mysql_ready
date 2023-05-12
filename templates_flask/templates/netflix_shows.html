@@ -5,8 +5,9 @@
 </head>
 <body>
     <h1>Netflix Shows and Movies</h1>
-        <p> Shows </p>
-    
-</ul>
+    {% for item in shows %}
+        <p> {{ item }} </p>
+    {% endfor %}
+    </ul>
 </body>
 </html>
