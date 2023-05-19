@@ -6,25 +6,30 @@
 </head>
 <body>
     <h1>Netflix Shows and Movies</h1>
-<div class="flip-container"> 
-    <img class="front" src="../static/images/s0.png" alt="Dick Johnson Is Dead" width="400">
-</div>
-    {% for item in shows %}
-        <p>
-            Title: {{ item[2] }} <br>
-            Director: {{ item[3] }} <br>
-            Cast: {{ item[4] }} <br>
-            Country: {{ item[5] }} <br>
-            Date Added: {{ item[6] }} <br>
-            Release Year: {{ item[7] }} <br>
-            Rating: {{ item[8] }} <br>
-            Duration: {{ item[9] }} <br>
-            Listed In: {{ item[10] }} <br>
-            Description: {{ item[11] }} <br>
-        </p>
+    <img src="../static/images/s0.png" alt="Dick Johnson Is Dead" width="400">
+          
+    <div class="flip-container">
+      <div class="flipper">
+        <img src="../static/{{item[0]}}.png" alt="{{item[0]}}" width="200" class="front">
+        <div class="back">
+          <!-- Testo da mostrare quando si passa sopra con il mouse -->
+                <h2>{{ item[2] }}</h2>
+                
+                <p>Director: {{ item[3] }}</p>
+                <p>Cast: {{ item[4] }}</p>
+                <p>Cast: {{ item[4] }} </p>
+                <p>Country: {{ item[5] }} </p>
+                <p>Date Added: {{ item[6] }} </p>    
+                <p>Release Year: {{ item[7] }} </p>
+                <p>Rating: {{ item[8] }}</p>
+                <p>Duration: {{ item[9] }} </p>
+                <p>Listed In: {{ item[10] }}</p>
+                <p>Description: {{ item[11] }} </p>
+            </div>
+        </div>
+      </div>
         <img src="../static/images/{{item[0]}}.png" alt="{{item[0]}}" width="200">
-    {% endfor %}
-
+  
     </ul>
 </body>
 </html>

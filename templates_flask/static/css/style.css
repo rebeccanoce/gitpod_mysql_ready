@@ -1,5 +1,7 @@
 /* styles.css */
-
+body {
+  background-color: #e6f0ff;
+}
 /* Flip animation */
 .flip-container {
     perspective: 1000px;
