@@ -2,13 +2,25 @@
 <html lang="en">
 <head>
     <title>Netflix Shows and Movies</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
 </head>
 <body>
     <h1>Netflix Shows and Movies</h1>
-    <img src="../static/images/s1.png" alt="Dick Johnson Is Dead" width="400">
+<div class="flip-container"> 
+    <img class="front" src="../static/images/s0.png" alt="Dick Johnson Is Dead" width="400">
+</div>
     {% for item in shows %}
         <p>
-            Type: {{ item[1] }}
+            Title: {{ item[2] }} <br>
+            Director: {{ item[3] }} <br>
+            Cast: {{ item[4] }} <br>
+            Country: {{ item[5] }} <br>
+            Date Added: {{ item[6] }} <br>
+            Release Year: {{ item[7] }} <br>
+            Rating: {{ item[8] }} <br>
+            Duration: {{ item[9] }} <br>
+            Listed In: {{ item[10] }} <br>
+            Description: {{ item[11] }} <br>
         </p>
         <img src="../static/images/{{item[0]}}.png" alt="{{item[0]}}" width="200">
     {% endfor %}

@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Flip animation */
+.flip-container {
+    perspective: 1000px;
+  }
+  
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);
+  }
+  
+  .flipper {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+  }
+  
+  .front, .back {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .front {
+    backface-visibility: hidden;
+  }
+  
+  .back {
+    transform: rotateY(180deg);
+    background-color: #f1f1f1;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .flip-container:hover .back {
+    display: block;
+  }
+  
