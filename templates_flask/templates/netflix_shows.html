@@ -7,9 +7,8 @@
 <body>
     <h1>Netflix Shows and Movies</h1>
     <img src="../static/images/s0.png" alt="Dick Johnson Is Dead" width="400">
+    <div class="container">
     {% for item in shows %}
-    <div class="flip-container">
-      <div class="flipper">
           <!-- Testo da mostrare quando si passa sopra con il mouse -->
                 <p>
                   Title:{{item[2]}} <br>
@@ -25,9 +24,7 @@
                 </p>
                 <img src="../static/images/{{item[0]}}.png" alt="{{item[0]}}" width="200">
                 {% endfor %}
-            </div>
-        </div>
-      </div>
+    </div>
         
   
     </ul>
